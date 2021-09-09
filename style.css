@@ -1,0 +1,11 @@
+body {
+  padding-top: 75px;
+}
+
+.reset {
+  flex-grow: 0;
+}
+
+.box-shadow {
+  box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 0.05), 0 4px 8px 0 rgb(0, 0, 0, 0.05);
+}
